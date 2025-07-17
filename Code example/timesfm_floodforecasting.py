@@ -113,7 +113,7 @@ results_df = pd.DataFrame(results)
 
 """## Save results"""
 
-results_df.to_csv(f'/content/drive/MyDrive/TimesFM//Results_{var_int}_{portion_}.csv') #change this
+results_df.to_csv(f'/content/drive/MyDrive/TimesFM//TimesFM_{var_int}_{portion_}.csv') #change this
 
 """#Perfromance Analysis
 
